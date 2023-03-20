@@ -1,0 +1,34 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#qr-reader {
+    width: 100%;
+    margin: 0 auto;
+    border: 0;
+}
+#result {
+    width: 100%;
+    margin: 0 auto;
+}
+video {
+    width: 100%;
+    border-radius: 40px;
+}
+#qr-shaded-region {
+    border-width: 2em 4em;
+}
+#qr-reader__dashboard {
+    border: 0;
+}
+#html5-qrcode-button-camera-stop {
+    border: 0;
+    width: 12em;
+    height: 2em;
+    border-radius: 10px;
+    background: gray;
+}
+#qr-shaded-region {
+    border-radius: 40px;
+}

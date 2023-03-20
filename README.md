@@ -1,0 +1,1 @@
+https://minhazav.medium.com/qr-and-barcode-scanner-using-html-and-javascript-2cdc937f793d
